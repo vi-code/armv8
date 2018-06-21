@@ -1,13 +1,9 @@
 /* 
  * convert.c
- * Lab 2
  *
  * In this lab you will create a program to convert a number 
  * from one base system to another base system.
  * 
- * @author Matt McCormick (mbmccorm@purdue.edu)
- * @section R1130
- * @date 01/27/2010
  * 
  */
 
