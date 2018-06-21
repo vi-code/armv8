@@ -1,6 +1,6 @@
 /**
  * Author:    Vihar Patel
- * CS 240 (Fall 2016)
+ *
  * Sum of Array
  * Max Element in Array
  * Min Element in Array
