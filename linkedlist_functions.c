@@ -100,13 +100,11 @@ int llist_remove(LinkedList * list, int value) {
 // It returns 1 if success or 0 if there is no ith entry.
 
 int llist_get_ith(LinkedList * list, int ith, int * value) {
-	//wake me up when september ends
 	ListNode * e = list->head;
 	for (int i = 0; i < ith; i++) {
 		if (e != NULL) {
 			e = e->next;
 		} else {
-			//Go fuck yourself
 			return 0;
 		}
 	}
