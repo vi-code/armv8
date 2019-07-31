@@ -3,7 +3,7 @@
 
 
 
-<!-- lag --> I worked on porting ARMv8 to the RPi3 with Gentoo. Here is the assembly code for ARMv8 code to simple C programs for educational purposes. <a href="https://github.com/vi-code/armv8">here!<!-- lag --></a> 
+<!-- lag --> I worked on porting ARMv8 to the RPi3 with Gentoo. The assembly code for ARMv8 code to simple C programs is <a href="https://github.com/vi-code/armv8">here<!-- lag --></a> for educational purposes
 
 GCC version : 6.3.0
 
