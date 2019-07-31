@@ -3,10 +3,12 @@
 
 
 
-<!-- lag -->You can find my implementation of my PageRank and HIITS algorithm <a href="https://github.com/vi-code/pagerank">here!<!-- lag --></a>
+<!-- lag --> I worked on porting ARMv8 to the RPi3 with Gentoo. Here is the assembly code for ARMv8 code to simple C programs for educational purposes. <a href="https://github.com/vi-code/armv8">here!<!-- lag --></a> 
+<br> GCC version : 6.3.0
+
+<br> Processor : cortex a53
+
+<br> Architecture: ARMv8-a
 
 <p>View webpage source <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
 
-<p> You can also download a printer-friendly version of my résumé <a href="https://github.com/vi-code/vi-code.github.io/raw/master/Resume_ViharPatel_SE_2019.pdf">here.</a></p><!-- lag -->
-
-<p>Peace!</p>
